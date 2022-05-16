@@ -11,7 +11,7 @@ class CreditFraud(Target):
     """
     target_name = "creditfraud"
     target_data_type = "tabular"
-    target_endpoint = "creditfraud_sklearn_pipeline.pkl"
+    target_endpoint = "model.pkl"
     target_input_shape = (30,)
     target_output_classes = ["benign", "fraud"]
     target_classifier = "BlackBox"
