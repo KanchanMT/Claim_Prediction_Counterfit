@@ -19,7 +19,7 @@ setuptools.setup(
     description="Counterfit project to simulate attacks on ML systems",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Azure/counterfit",
+    url="https://github.com/KanchanMT/Claim_Prediction_Counterfit/counterfit",
     classifiers=[
         "Development Status :: development",
         "Intended Audience :: Security/ML/Research",
